@@ -1,0 +1,25 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.bak
+*.part.mp4
+/work/
+/clips/
+/requests/
+/by-hand/
+/plan.md
+/plan.html
+/checklist.md
+/media.json
+/ledger.json
+/proof.csv
+# scratch folders and files left by a build or a stopped script
+strip-tmp/
+*-tmp/
+tmp/
+*.tmp
+*.lock
+/proof/
+/approval/
+/submit.md
+/accounts.json
